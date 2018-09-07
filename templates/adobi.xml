@@ -1,0 +1,14 @@
+<templateSet group="adobi">
+  <template name="base" value="!function($, window)&#10;{&#10;  var $CLASS_NAME$ = {&#10;    rootElement: $('')&#10;    , bindEvents: function()&#10;    {&#10;      if (!this.rootElement.length) return&#10;    }&#10;  }&#10;&#10;  App.$CLASS_NAME$ = $CLASS_NAME$&#10;&#10;  $(function() {&#10;    $CLASS_NAME$.bindEvents()&#10;&#10;  })&#10;&#10;} (jQuery, window);" description="basic javascript file" toReformat="false" toShortenFQNames="true">
+    <variable name="CLASS_NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="content-box" value="&lt;div class=&quot;content-box&quot;&gt;&#10;&#9;&lt;fieldset&gt;&#10;&#9;&#9;&lt;legend class=&quot;content-box-title&quot;&gt;$CURSOR$&lt;/legend&gt;&#10;&#9;&lt;/fieldset&gt;&#10;&lt;/div&gt;" description="content box with title" toReformat="false" toShortenFQNames="true">
+    <variable name="CURSOR" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+</templateSet>

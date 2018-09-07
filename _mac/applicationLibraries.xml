@@ -1,0 +1,10 @@
+<application>
+  <component name="libraryTable">
+    <library name="jquery-1.9.1">
+      <CLASSES>
+        <root url="file://F:/wamp/www/krooner/ProjectB/src/Krooner/ProjectB/CoreBundle/Resources/public/assets/js/dev/jquery/jquery.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+  </component>
+</application>
