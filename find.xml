@@ -11,12 +11,12 @@
     <mask>*.as</mask>
     <mask>*.mxml</mask>
     <mask>*.css</mask>
-    <mask>*.njk</mask>
     <mask>*.yml</mask>
     <mask>*.php</mask>
     <mask>*.scss</mask>
     <mask>*.js</mask>
     <mask>*.ts</mask>
     <mask>*.html.php</mask>
+    <mask>*.njk</mask>
   </component>
 </application>
