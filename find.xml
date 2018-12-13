@@ -20,7 +20,7 @@
     <mask>*.yml</mask>
     <mask>*.scss</mask>
     <mask>*.js</mask>
-    <mask>*.php</mask>
     <mask>*.html.php</mask>
+    <mask>*.php</mask>
   </component>
 </application>
