@@ -14,9 +14,9 @@
     <mask>*.njk</mask>
     <mask>*.html</mask>
     <mask>*.yml</mask>
-    <mask>*.js</mask>
     <mask>*.html.php</mask>
     <mask>*.php</mask>
     <mask>*.scss</mask>
+    <mask>*.js</mask>
   </component>
 </application>
