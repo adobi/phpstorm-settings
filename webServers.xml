@@ -19,14 +19,6 @@
           <option name="port" value="11022" />
         </fileTransfer>
       </webServer>
-      <webServer id="59f39913-f998-4f98-a61c-e9c05750f2e4" name="homestead-simple-dent" url="http://simpledent.app/">
-        <fileTransfer host="127.0.0.1" port="2222" privateKey="C:\Users\adobi\.ssh\id_rsa" accessType="SFTP" keyPair="true">
-          <advancedOptions>
-            <advancedOptions dataProtectionLevel="Private" />
-          </advancedOptions>
-          <option name="port" value="2222" />
-        </fileTransfer>
-      </webServer>
       <webServer id="70d0e172-4e42-4929-9f66-afac2ca02ceb" name="dibook.webapix.hu" url="http://dibook.webapix.hu">
         <fileTransfer host="ub1.creartwork.hu" port="1022" privateKey="F:\adobi\id_rsa" rootFolder="/var/www/clients/client1/web28/web" accessType="SFTP" keyPair="true">
           <advancedOptions>
@@ -44,14 +36,6 @@
         </fileTransfer>
       </webServer>
       <webServer id="4d20151f-9140-47dc-a92f-ad9732427439" name="ebuild.hu" url="http://proidea.hu">
-        <fileTransfer host="proidea.hu" port="21">
-          <advancedOptions>
-            <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
-          </advancedOptions>
-          <option name="port" value="21" />
-        </fileTransfer>
-      </webServer>
-      <webServer id="dff37ce7-9c4e-4933-aaa6-0ba9c83faca8" name="ebuild.hu (1)" url="http://ebuild.hu">
         <fileTransfer host="proidea.hu" port="21">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
