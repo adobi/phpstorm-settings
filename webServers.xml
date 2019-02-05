@@ -2,7 +2,7 @@
   <component name="WebServers">
     <option name="servers">
       <webServer id="558b7015-c558-4072-8477-466f5d722530" name="adobi.hu" url="http://localhost">
-        <fileTransfer host="titan.web-server.hu" port="21">
+        <fileTransfer host="greentower.gomedia.hu" port="21">
           <option name="port" value="21" />
         </fileTransfer>
       </webServer>
