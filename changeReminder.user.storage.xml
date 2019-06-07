@@ -1,0 +1,6 @@
+<application>
+  <component name="ChangeReminderUserStorage">
+    <option name="step" value="0.028571428571428564" />
+    <option name="threshold" value="0.8285714285714286" />
+  </component>
+</application>
