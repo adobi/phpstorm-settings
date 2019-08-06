@@ -15,12 +15,12 @@
     <mask>*.ts</mask>
     <mask>*.less</mask>
     <mask>*.tsx</mask>
-    <mask>*.html.php</mask>
     <mask>*.yml</mask>
     <mask>*.xlif</mask>
     <mask>*.xlf</mask>
     <mask>*.php</mask>
     <mask>*.scss</mask>
     <mask>*.js</mask>
+    <mask>*.html.php</mask>
   </component>
 </application>
