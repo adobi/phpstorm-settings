@@ -7,6 +7,7 @@
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.html.php" />
     <mask>*.properties</mask>
     <mask>*.jsp</mask>
     <mask>*.xml</mask>
@@ -23,8 +24,8 @@
     <mask>*.xlif</mask>
     <mask>*.xlf</mask>
     <mask>*.php</mask>
-    <mask>*.html.php</mask>
     <mask>*.scss</mask>
     <mask>*.js</mask>
+    <mask>*.html.php</mask>
   </component>
 </application>
