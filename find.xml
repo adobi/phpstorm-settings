@@ -17,10 +17,10 @@
     <mask>*.tsx</mask>
     <mask>*.yml</mask>
     <mask>*.xlif</mask>
-    <mask>*.js</mask>
     <mask>*.xlf</mask>
     <mask>*.html.php</mask>
     <mask>*.scss</mask>
     <mask>*.php</mask>
+    <mask>*.js</mask>
   </component>
 </application>
