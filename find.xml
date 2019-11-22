@@ -2,6 +2,8 @@
   <component name="FindSettings">
     <option name="customScope" value="Default" />
     <option name="defaultScopeName" value="Default" />
+    <option name="wholeWordsOnly" value="true" />
+    <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="Default" />
     <mask>*.properties</mask>
     <mask>*.jsp</mask>
@@ -18,9 +20,9 @@
     <mask>*.yml</mask>
     <mask>*.xlif</mask>
     <mask>*.xlf</mask>
-    <mask>*.html.php</mask>
     <mask>*.scss</mask>
     <mask>*.js</mask>
     <mask>*.php</mask>
+    <mask>*.html.php</mask>
   </component>
 </application>
