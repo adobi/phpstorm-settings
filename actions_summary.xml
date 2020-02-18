@@ -37,8 +37,8 @@
         <entry key="CheckForUpdate">
           <value>
             <ActionSummary>
-              <option name="last" value="1582014533378" />
-              <option name="times" value="4" />
+              <option name="last" value="1582014621035" />
+              <option name="times" value="5" />
             </ActionSummary>
           </value>
         </entry>
@@ -69,8 +69,8 @@
         <entry key="EditorBackSpace">
           <value>
             <ActionSummary>
-              <option name="last" value="1581331053579" />
-              <option name="times" value="87" />
+              <option name="last" value="1582014989097" />
+              <option name="times" value="88" />
             </ActionSummary>
           </value>
         </entry>
@@ -314,6 +314,14 @@
             </ActionSummary>
           </value>
         </entry>
+        <entry key="com.intellij.ide.ReopenProjectAction">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1582014632444" />
+              <option name="times" value="1" />
+            </ActionSummary>
+          </value>
+        </entry>
         <entry key="com.intellij.notification.EventLogConsole$ClearLogAction">
           <value>
             <ActionSummary>
@@ -335,6 +343,14 @@
             <ActionSummary>
               <option name="last" value="1581321653792" />
               <option name="times" value="4" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="com.intellij.openapi.wm.impl.welcomeScreen.FlatWelcomeFrame$FlatWelcomeScreen$4">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1582014625690" />
+              <option name="times" value="2" />
             </ActionSummary>
           </value>
         </entry>
