@@ -58,6 +58,22 @@
             </ActionSummary>
           </value>
         </entry>
+        <entry key="CopyPathFromRepositoryRootProvider">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1582044219434" />
+              <option name="times" value="1" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="CopyReferencePopup">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1582044217494" />
+              <option name="times" value="1" />
+            </ActionSummary>
+          </value>
+        </entry>
         <entry key="Diff.ShowDiff">
           <value>
             <ActionSummary>
@@ -69,8 +85,8 @@
         <entry key="EditorBackSpace">
           <value>
             <ActionSummary>
-              <option name="last" value="1582014989097" />
-              <option name="times" value="88" />
+              <option name="last" value="1582044494469" />
+              <option name="times" value="97" />
             </ActionSummary>
           </value>
         </entry>
@@ -218,6 +234,14 @@
             </ActionSummary>
           </value>
         </entry>
+        <entry key="FindInPath">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1582044189131" />
+              <option name="times" value="2" />
+            </ActionSummary>
+          </value>
+        </entry>
         <entry key="Git.Commit.And.Push.Executor">
           <value>
             <ActionSummary>
@@ -229,8 +253,16 @@
         <entry key="GotoDeclaration">
           <value>
             <ActionSummary>
-              <option name="last" value="1581330788427" />
-              <option name="times" value="8" />
+              <option name="last" value="1582045221814" />
+              <option name="times" value="11" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="GotoFile">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1582045215423" />
+              <option name="times" value="5" />
             </ActionSummary>
           </value>
         </entry>
@@ -301,8 +333,8 @@
         <entry key="Vcs.UpdateProject">
           <value>
             <ActionSummary>
-              <option name="last" value="1581331492541" />
-              <option name="times" value="4" />
+              <option name="last" value="1582044360152" />
+              <option name="times" value="6" />
             </ActionSummary>
           </value>
         </entry>
@@ -330,6 +362,14 @@
             </ActionSummary>
           </value>
         </entry>
+        <entry key="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1582045219269" />
+              <option name="times" value="6" />
+            </ActionSummary>
+          </value>
+        </entry>
         <entry key="com.intellij.openapi.updateSettings.impl.UpdateChecker$showNotification$1">
           <value>
             <ActionSummary>
@@ -354,11 +394,35 @@
             </ActionSummary>
           </value>
         </entry>
+        <entry key="com.intellij.ui.ScrollingUtil$12">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1582044126274" />
+              <option name="times" value="5" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="com.intellij.ui.ScrollingUtil$13">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1582044127747" />
+              <option name="times" value="3" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="com.intellij.ui.ScrollingUtil$6">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1582045076358" />
+              <option name="times" value="2" />
+            </ActionSummary>
+          </value>
+        </entry>
         <entry key="com.intellij.xdebugger.impl.breakpoints.RemoveBreakpointGutterIconAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1581329970768" />
-              <option name="times" value="1" />
+              <option name="last" value="1582044518075" />
+              <option name="times" value="7" />
             </ActionSummary>
           </value>
         </entry>
