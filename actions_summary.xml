@@ -37,8 +37,8 @@
         <entry key="CheckForUpdate">
           <value>
             <ActionSummary>
-              <option name="last" value="1582014621035" />
-              <option name="times" value="5" />
+              <option name="last" value="1582100552981" />
+              <option name="times" value="6" />
             </ActionSummary>
           </value>
         </entry>
@@ -389,8 +389,8 @@
         <entry key="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1582099615151" />
-              <option name="times" value="10" />
+              <option name="last" value="1582100559977" />
+              <option name="times" value="11" />
             </ActionSummary>
           </value>
         </entry>
