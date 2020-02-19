@@ -269,8 +269,8 @@
         <entry key="GotoFile">
           <value>
             <ActionSummary>
-              <option name="last" value="1582099605312" />
-              <option name="times" value="8" />
+              <option name="last" value="1582110391529" />
+              <option name="times" value="9" />
             </ActionSummary>
           </value>
         </entry>
@@ -341,8 +341,8 @@
         <entry key="Vcs.UpdateProject">
           <value>
             <ActionSummary>
-              <option name="last" value="1582044360152" />
-              <option name="times" value="6" />
+              <option name="last" value="1582110120986" />
+              <option name="times" value="8" />
             </ActionSummary>
           </value>
         </entry>
@@ -389,8 +389,8 @@
         <entry key="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1582100559977" />
-              <option name="times" value="11" />
+              <option name="last" value="1582110397381" />
+              <option name="times" value="14" />
             </ActionSummary>
           </value>
         </entry>
@@ -437,8 +437,8 @@
         <entry key="com.intellij.ui.ScrollingUtil$6">
           <value>
             <ActionSummary>
-              <option name="last" value="1582099612781" />
-              <option name="times" value="12" />
+              <option name="last" value="1582110396780" />
+              <option name="times" value="16" />
             </ActionSummary>
           </value>
         </entry>
@@ -454,6 +454,14 @@
           <value>
             <ActionSummary>
               <option name="last" value="1582096565496" />
+              <option name="times" value="1" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="git4idea.ui.branch.GitBranchPopupActions$RemoteBranchActions$CheckoutRemoteBranchAction">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1582110138013" />
               <option name="times" value="1" />
             </ActionSummary>
           </value>
