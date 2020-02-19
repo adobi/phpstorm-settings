@@ -149,8 +149,8 @@
         <entry key="EditorEscape">
           <value>
             <ActionSummary>
-              <option name="last" value="1581329707511" />
-              <option name="times" value="3" />
+              <option name="last" value="1582096452500" />
+              <option name="times" value="4" />
             </ActionSummary>
           </value>
         </entry>
@@ -197,8 +197,8 @@
         <entry key="EditorPaste">
           <value>
             <ActionSummary>
-              <option name="last" value="1581330885690" />
-              <option name="times" value="25" />
+              <option name="last" value="1582096566799" />
+              <option name="times" value="26" />
             </ActionSummary>
           </value>
         </entry>
@@ -237,16 +237,16 @@
         <entry key="Find">
           <value>
             <ActionSummary>
-              <option name="last" value="1582095393883" />
-              <option name="times" value="1" />
+              <option name="last" value="1582095725143" />
+              <option name="times" value="2" />
             </ActionSummary>
           </value>
         </entry>
         <entry key="FindInPath">
           <value>
             <ActionSummary>
-              <option name="last" value="1582044189131" />
-              <option name="times" value="2" />
+              <option name="last" value="1582095757201" />
+              <option name="times" value="3" />
             </ActionSummary>
           </value>
         </entry>
@@ -354,6 +354,14 @@
             </ActionSummary>
           </value>
         </entry>
+        <entry key="com.intellij.find.editorHeaderActions.NextOccurrenceAction">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1582095743149" />
+              <option name="times" value="4" />
+            </ActionSummary>
+          </value>
+        </entry>
         <entry key="com.intellij.ide.ReopenProjectAction">
           <value>
             <ActionSummary>
@@ -373,8 +381,8 @@
         <entry key="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1582095355528" />
-              <option name="times" value="8" />
+              <option name="last" value="1582096453983" />
+              <option name="times" value="9" />
             </ActionSummary>
           </value>
         </entry>
@@ -431,6 +439,14 @@
             <ActionSummary>
               <option name="last" value="1582044518075" />
               <option name="times" value="7" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="git4idea.ui.branch.GitBranchPopupActions$GitNewBranchAction">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1582096565496" />
+              <option name="times" value="1" />
             </ActionSummary>
           </value>
         </entry>
