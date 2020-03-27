@@ -25,5 +25,6 @@
     <mask>*.sql</mask>
     <mask>*.js</mask>
     <mask>*.php</mask>
+    <mask>*.hbs</mask>
   </component>
 </application>
