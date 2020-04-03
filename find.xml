@@ -2,6 +2,8 @@
   <component name="FindSettings">
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
+    <option name="localCaseSensitive" value="true" />
+    <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <mask>*.properties</mask>
     <mask>*.jsp</mask>
@@ -21,7 +23,8 @@
     <mask>*.xlf</mask>
     <mask>*.html.php</mask>
     <mask>*.sql</mask>
-    <mask>*.php</mask>
     <mask>*.js</mask>
+    <mask>*.php</mask>
+    <mask>*.hbs</mask>
   </component>
 </application>
