@@ -1,0 +1,10 @@
+<application>
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig host="b2b.ibusz.hu" id="408ff4d8-72fb-4620-96bd-75282bd63a40" keyPath="F:\adobi\id_rsa" port="11022" customName="ibusz" nameFormat="CUSTOM" />
+      <sshConfig host="ub1.creartwork.hu" id="19adac09-cb24-4fa7-8610-8174de6496bd" keyPath="F:\adobi\id_rsa" port="1022" customName="dibook.webapix.hu" nameFormat="CUSTOM" />
+      <sshConfig host="ub1.creartwork.hu" id="24f1908d-a9eb-4610-a3e8-85a6c44a9185" keyPath="F:\adobi\id_rsa" port="1022" customName="dimag.webapix.hu" nameFormat="CUSTOM" />
+      <sshConfig host="ub1.creartwork.hu" id="75f6db44-eca7-4389-865b-ca009620b938" keyPath="F:\adobi\id_rsa" port="1022" customName="medigroup" nameFormat="CUSTOM" />
+    </configs>
+  </component>
+</application>
