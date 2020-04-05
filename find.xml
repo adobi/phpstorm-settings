@@ -24,7 +24,7 @@
     <mask>*.html.php</mask>
     <mask>*.sql</mask>
     <mask>*.js</mask>
-    <mask>*.php</mask>
     <mask>*.hbs</mask>
+    <mask>*.php</mask>
   </component>
 </application>
