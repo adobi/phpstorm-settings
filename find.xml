@@ -19,12 +19,12 @@
     <mask>*.yml</mask>
     <mask>*.xlif</mask>
     <mask>*.html</mask>
-    <mask>*.scss</mask>
     <mask>*.xlf</mask>
     <mask>*.html.php</mask>
     <mask>*.sql</mask>
     <mask>*.js</mask>
     <mask>*.php</mask>
     <mask>*.hbs</mask>
+    <mask>*.scss</mask>
   </component>
 </application>
