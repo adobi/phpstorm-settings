@@ -25,6 +25,10 @@
       <sshConfig host="ub1.creartwork.hu" id="da1c759b-6f0c-418b-9d0f-d36e270dda80" keyPath="F:\adobi\id_rsa" port="1022" customName="dibook.webapix.hu" nameFormat="CUSTOM" />
       <sshConfig host="ub1.creartwork.hu" id="54acc1bc-1533-4e55-bc8a-2964d6640f42" keyPath="F:\adobi\id_rsa" port="1022" customName="dimag.webapix.hu" nameFormat="CUSTOM" />
       <sshConfig host="ub1.creartwork.hu" id="a4ebea4d-287f-4588-97c4-16a93eade12c" keyPath="F:\adobi\id_rsa" port="1022" customName="medigroup" nameFormat="CUSTOM" />
+      <sshConfig host="b2b.ibusz.hu" id="425b869b-8e76-41d6-aecf-09e0c038ff25" keyPath="F:\adobi\id_rsa" port="11022" customName="ibusz" nameFormat="CUSTOM" />
+      <sshConfig host="ub1.creartwork.hu" id="1c2c1c0b-ac2b-48b4-89f3-606c40739138" keyPath="F:\adobi\id_rsa" port="1022" customName="dibook.webapix.hu" nameFormat="CUSTOM" />
+      <sshConfig host="ub1.creartwork.hu" id="30ec3c0a-21a2-4372-8e58-a43807f527f5" keyPath="F:\adobi\id_rsa" port="1022" customName="dimag.webapix.hu" nameFormat="CUSTOM" />
+      <sshConfig host="ub1.creartwork.hu" id="dbba1fa7-afce-4ab2-b419-abe5a42bfcbb" keyPath="F:\adobi\id_rsa" port="1022" customName="medigroup" nameFormat="CUSTOM" />
     </configs>
   </component>
 </application>
