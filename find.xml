@@ -20,10 +20,10 @@
     <mask>*.html.php</mask>
     <mask>*.sql</mask>
     <mask>*.hbs</mask>
-    <mask>*.js</mask>
     <mask>*.php</mask>
     <mask>*.php</mask>
     <mask>*.scss</mask>
     <mask>*.html</mask>
+    <mask>*.js</mask>
   </component>
 </application>
