@@ -9,6 +9,7 @@
       <mapping ext="20-14" type="PLAIN_TEXT" />
       <mapping ext="ttf" type="PLAIN_TEXT" />
       <mapping ext="slq" type="PLAIN_TEXT" />
+      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <mapping ext="njk" type="Twig" />
       <mapping pattern="xlf" type="XML" />
       <removed_mapping ext="rb" approved="true" type="PLAIN_TEXT" />
