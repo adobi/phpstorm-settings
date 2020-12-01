@@ -28,8 +28,8 @@
     <mask>*.yml</mask>
     <mask>*.php</mask>
     <mask>*.php</mask>
-    <mask>*.ts</mask>
     <mask>*.html</mask>
     <mask>*.html.php</mask>
+    <mask>*.ts</mask>
   </component>
 </application>
