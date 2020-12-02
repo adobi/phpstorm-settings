@@ -20,7 +20,6 @@
     <mask>*.xlif</mask>
     <mask>*.sql</mask>
     <mask>*.mk</mask>
-    <mask>*.scss</mask>
     <mask>*.hbs</mask>
     <mask>*.js</mask>
     <mask>*.json</mask>
@@ -31,5 +30,6 @@
     <mask>*.html</mask>
     <mask>*.html.php</mask>
     <mask>*.ts</mask>
+    <mask>*.scss</mask>
   </component>
 </application>
