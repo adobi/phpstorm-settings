@@ -3,7 +3,7 @@
     <option name="customScope" value="Default Changelist" />
     <option name="defaultScopeName" value="Default Changelist" />
     <option name="SEARCH_SCOPE" value="Default Changelist" />
-    <option name="FILE_MASK" value="*.php" />
+    <option name="FILE_MASK" value="*.html.php" />
     <mask>*.properties</mask>
     <mask>*.jsp</mask>
     <mask>*.xml</mask>
@@ -21,12 +21,12 @@
     <mask>*.xlf</mask>
     <mask>*.html</mask>
     <mask>*.ts</mask>
-    <mask>*.html.php</mask>
     <mask>*.scss</mask>
     <mask>*.hbs</mask>
     <mask>*.yml</mask>
     <mask>*.js</mask>
     <mask>*.php</mask>
     <mask>*.php</mask>
+    <mask>*.html.php</mask>
   </component>
 </application>
