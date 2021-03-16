@@ -7,9 +7,7 @@
     <keyboard-shortcut first-keystroke="meta minus" />
   </action>
   <action id="HippieCompletion" />
-  <action id="NextProjectWindow">
-    <keyboard-shortcut first-keystroke="meta i_with_acute" />
-  </action>
+  <action id="NextProjectWindow" />
   <action id="SwitchApply">
     <keyboard-shortcut first-keystroke="ctrl alt enter" />
   </action>
