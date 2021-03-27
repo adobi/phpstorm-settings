@@ -19,7 +19,6 @@
     <mask>*.json</mask>
     <mask>*.xlf</mask>
     <mask>*.html</mask>
-    <mask>*.scss</mask>
     <mask>*.hbs</mask>
     <mask>*.yml</mask>
     <mask>*.php</mask>
@@ -28,5 +27,6 @@
     <mask>*.http</mask>
     <mask>*.js</mask>
     <mask>*.ts</mask>
+    <mask>*.scss</mask>
   </component>
 </application>
