@@ -13,14 +13,12 @@
       <mapping pattern="xlf" type="XML" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping ext="csv" type="CSV/TSV" />
       <removed_mapping ext="dockerfile" approved="true" type="textmate" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="makefile" approved="true" type="textmate" />
       <removed_mapping ext="rb" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="sh" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="snakefile" approved="true" type="textmate" />
-      <removed_mapping ext="tsv" type="CSV/TSV" />
       <removed_mapping ext="xlf" approved="true" type="PLAIN_TEXT" />
       <mapping pattern="59634393f2a02" type="Images" />
       <mapping pattern="596347992e2f4" type="Images" />
