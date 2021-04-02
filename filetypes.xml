@@ -1,7 +1,6 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
-      <mapping ext="csv" type="CSV" />
       <mapping pattern="b877843f87eeeb53a10a9ad5dee5ba3cf4918be8" type="Native" />
       <mapping pattern="pre-commit" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
@@ -10,7 +9,6 @@
       <mapping ext="ttf" type="PLAIN_TEXT" />
       <mapping ext="20-14" type="PLAIN_TEXT" />
       <mapping ext="cer" type="PLAIN_TEXT" />
-      <mapping ext="tsv" type="TSV" />
       <mapping ext="njk" type="Twig" />
       <mapping pattern="xlf" type="XML" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
