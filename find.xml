@@ -21,12 +21,12 @@
     <mask>*.html</mask>
     <mask>*.hbs</mask>
     <mask>*.yml</mask>
-    <mask>*.html.php</mask>
     <mask>*.http</mask>
     <mask>*.js</mask>
     <mask>*.php</mask>
     <mask>*.php</mask>
     <mask>*.ts</mask>
     <mask>*.scss</mask>
+    <mask>*.html.php</mask>
   </component>
 </application>
