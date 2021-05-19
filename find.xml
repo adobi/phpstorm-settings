@@ -2,6 +2,8 @@
   <component name="FindSettings">
     <option name="customScope" value="Default Changelist" />
     <option name="defaultScopeName" value="Default Changelist" />
+    <option name="wholeWordsOnly" value="true" />
+    <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="Default Changelist" />
     <mask>*.properties</mask>
     <mask>*.jsp</mask>
@@ -21,12 +23,12 @@
     <mask>*.yml</mask>
     <mask>*.http</mask>
     <mask>*.hbs</mask>
-    <mask>*.js</mask>
     <mask>*.php</mask>
     <mask>*.php</mask>
     <mask>*.html</mask>
     <mask>*.html.php</mask>
     <mask>*.ts</mask>
     <mask>*.scss</mask>
+    <mask>*.js</mask>
   </component>
 </application>
