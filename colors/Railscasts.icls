@@ -2,7 +2,7 @@
   <option name="FONT_SCALE" value="1.0" />
   <option name="LINE_SPACING" value="1.0" />
   <font>
-    <option name="EDITOR_FONT_NAME" value="DejaVu Sans Mono" />
+    <option name="EDITOR_FONT_NAME" value="Hack" />
     <option name="EDITOR_FONT_SIZE" value="12" />
   </font>
   <font>
@@ -779,6 +779,7 @@
     <option name="PHP_KEYWORD">
       <value>
         <option name="FOREGROUND" value="cc7833" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="PHP_NUMBER">
