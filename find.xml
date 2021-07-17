@@ -20,7 +20,6 @@
     <mask>*.mk</mask>
     <mask>*.json</mask>
     <mask>*.yml</mask>
-    <mask>*.http</mask>
     <mask>*.hbs</mask>
     <mask>*.html</mask>
     <mask>*.ts</mask>
@@ -30,5 +29,6 @@
     <mask>*.html.php</mask>
     <mask>*.php</mask>
     <mask>*.php</mask>
+    <mask>*.http</mask>
   </component>
 </application>
