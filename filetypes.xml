@@ -2,7 +2,6 @@
   <component name="FileTypeManager" version="18">
     <extensionMap>
       <mapping pattern="b877843f87eeeb53a10a9ad5dee5ba3cf4918be8" type="Native" />
-      <mapping pattern="pre-commit" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping ext="tmp" type="PLAIN_TEXT" />
       <mapping ext="slq" type="PLAIN_TEXT" />
