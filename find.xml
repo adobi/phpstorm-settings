@@ -20,15 +20,15 @@
     <mask>*.mk</mask>
     <mask>*.json</mask>
     <mask>*.yml</mask>
-    <mask>*.http</mask>
     <mask>*.hbs</mask>
     <mask>*.html</mask>
-    <mask>*.ts</mask>
-    <mask>*.js</mask>
     <mask>*.xlf</mask>
-    <mask>*.scss</mask>
+    <mask>*.php</mask>
+    <mask>*.php</mask>
+    <mask>*.http</mask>
     <mask>*.html.php</mask>
-    <mask>*.php</mask>
-    <mask>*.php</mask>
+    <mask>*.ts</mask>
+    <mask>*.scss</mask>
+    <mask>*.js</mask>
   </component>
 </application>
