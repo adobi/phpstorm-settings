@@ -19,16 +19,16 @@
     <mask>*.sql</mask>
     <mask>*.mk</mask>
     <mask>*.json</mask>
-    <mask>*.yml</mask>
     <mask>*.hbs</mask>
     <mask>*.html</mask>
     <mask>*.xlf</mask>
     <mask>*.php</mask>
     <mask>*.php</mask>
-    <mask>*.http</mask>
     <mask>*.html.php</mask>
     <mask>*.ts</mask>
-    <mask>*.scss</mask>
     <mask>*.js</mask>
+    <mask>*.http</mask>
+    <mask>*.scss</mask>
+    <mask>*.yml</mask>
   </component>
 </application>
