@@ -1,9 +1,28 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
-      <mapping ext="csv" type="PLAIN_TEXT" />
+      <mapping pattern="b877843f87eeeb53a10a9ad5dee5ba3cf4918be8" type="Native" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping ext="tmp" type="PLAIN_TEXT" />
+      <mapping ext="slq" type="PLAIN_TEXT" />
+      <mapping ext="ttf" type="PLAIN_TEXT" />
+      <mapping ext="20-14" type="PLAIN_TEXT" />
+      <mapping ext="cer" type="PLAIN_TEXT" />
+      <mapping ext="njk" type="Twig" />
+      <mapping pattern="xlf" type="XML" />
+      <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="csv" approved="true" type="CSV/TSV" />
+      <removed_mapping ext="dockerfile" approved="true" type="textmate" />
+      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="makefile" approved="true" type="textmate" />
+      <removed_mapping ext="rb" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="sh" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="snakefile" approved="true" type="textmate" />
       <removed_mapping ext="tsv" approved="true" type="CSV/TSV" />
+      <removed_mapping ext="xlf" approved="true" type="PLAIN_TEXT" />
+      <mapping pattern="59634393f2a02" type="Images" />
+      <mapping pattern="596347992e2f4" type="Images" />
     </extensionMap>
   </component>
 </application>

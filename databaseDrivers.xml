@@ -1,0 +1,36 @@
+<application>
+  <component name="LocalDatabaseDriverManager" version="201">
+    <driver id="sqlserver.ms">
+      <option name="auto-sync" value="false" />
+    </driver>
+    <driver id="sqlserver.jtds">
+      <option name="auto-sync" value="false" />
+    </driver>
+    <driver id="mysql.8">
+      <artifact />
+      <artifact id="MySQL ConnectorJ" name="MySQL ConnectorJ" use="true" version="8.0.21" />
+      <artifact id="MySQL Connector/J 8" name="MySQL Connector/J 8" use="true" version="8.0.15" />
+    </driver>
+    <driver id="mysql">
+      <artifact id="MySQL Connector/J" name="MySQL Connector/J" use="true" version="5.1.46" />
+      <library>
+        <url>file://$APPLICATION_CONFIG_DIR$/jdbc-drivers/mysql-connector-license.txt</url>
+      </library>
+      <library>
+        <url>file://$APPLICATION_CONFIG_DIR$/jdbc-drivers/mysql-connector-java-5.1.34-bin.jar</url>
+      </library>
+    </driver>
+    <driver id="oracle">
+      <option name="auto-sync" value="false" />
+    </driver>
+    <driver id="postgresql">
+      <artifact id="PostgreSQL" name="PostgreSQL" use="true" version="42.2.5" />
+    </driver>
+    <driver id="sybase.jtds">
+      <option name="auto-sync" value="false" />
+    </driver>
+    <driver id="sybase.ase">
+      <option name="auto-sync" value="false" />
+    </driver>
+  </component>
+</application>
