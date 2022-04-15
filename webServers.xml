@@ -2,37 +2,30 @@
   <component name="WebServers">
     <option name="servers">
       <webServer id="558b7015-c558-4072-8477-466f5d722530" name="adobi.hu" url="http://localhost">
-        <fileTransfer host="greentower.gomedia.hu" port="21">
-          <option name="port" value="21" />
-        </fileTransfer>
+        <fileTransfer host="greentower.gomedia.hu" port="21" />
       </webServer>
       <webServer id="665f95af-ce5f-4464-a663-cd11fa5bfd65" name="avorado.ftp" url="http://localhost">
-        <fileTransfer host="avorado.leanrocket.se" port="21">
-          <option name="port" value="21" />
-        </fileTransfer>
+        <fileTransfer host="avorado.leanrocket.se" port="21" />
       </webServer>
       <webServer id="bf7278ac-0714-4c20-be0e-1c80c35e0180" name="ibusz" url="http://b2b.ibusz.hu:11080/">
-        <fileTransfer host="b2b.ibusz.hu" port="11022" privateKey="F:\adobi\id_rsa" accessType="SFTP" keyPair="true">
+        <fileTransfer accessType="SFTP" sshConfigId="2aecdaf3-ed71-4b8b-bdd5-9d472ef6bf64" sshConfig="ibusz">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
-          <option name="port" value="11022" />
         </fileTransfer>
       </webServer>
       <webServer id="70d0e172-4e42-4929-9f66-afac2ca02ceb" name="dibook.webapix.hu" url="http://dibook.webapix.hu">
-        <fileTransfer host="ub1.creartwork.hu" port="1022" privateKey="F:\adobi\id_rsa" rootFolder="/var/www/clients/client1/web28/web" accessType="SFTP" keyPair="true">
+        <fileTransfer rootFolder="/var/www/clients/client1/web28/web" accessType="SFTP" sshConfigId="a5db1c21-4804-487a-b610-dc6703c7e637" sshConfig="dibook.webapix.hu">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
-          <option name="port" value="1022" />
         </fileTransfer>
       </webServer>
       <webServer id="1ca0eeba-7039-49d0-b75d-b9f5c4bcef33" name="dimag.webapix.hu" url="http://dimag.webapix.hu">
-        <fileTransfer host="ub1.creartwork.hu" port="1022" privateKey="F:\adobi\id_rsa" rootFolder="/var/www/clients/client1/web59/web/dimag" accessType="SFTP" keyPair="true">
+        <fileTransfer rootFolder="/var/www/clients/client1/web59/web/dimag" accessType="SFTP" sshConfigId="a5db1c21-4804-487a-b610-dc6703c7e637" sshConfig="dibook.webapix.hu">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
-          <option name="port" value="1022" />
         </fileTransfer>
       </webServer>
       <webServer id="4d20151f-9140-47dc-a92f-ad9732427439" name="ebuild.hu" url="http://proidea.hu">
@@ -40,22 +33,20 @@
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
           </advancedOptions>
-          <option name="port" value="21" />
         </fileTransfer>
       </webServer>
       <webServer id="5c32f85b-5222-492c-ae96-7f2922f7dd1c" name="medigroup" url="http://bulevar.webapix.hu">
-        <fileTransfer host="ub1.creartwork.hu" port="1022" privateKey="F:\adobi\id_rsa" rootFolder="/var/www/clients/client1/web19/web/" accessType="SFTP" keyPair="true">
+        <fileTransfer rootFolder="/var/www/clients/client1/web19/web/" accessType="SFTP" sshConfigId="a5db1c21-4804-487a-b610-dc6703c7e637" sshConfig="dibook.webapix.hu">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
-          <option name="port" value="1022" />
         </fileTransfer>
       </webServer>
       <webServer id="db65e143-ceb6-4961-8f57-8f587175d0bb" name="phoenix" url="http://localhost">
-        <fileTransfer port="0" accessType="LOCAL" />
+        <fileTransfer accessType="LOCAL" port="0" />
       </webServer>
       <webServer id="35a3be5c-13d0-48c9-a492-32d92269b098" name="meghivodiszkont" url="http://localhost">
-        <fileTransfer port="0" accessType="LOCAL" />
+        <fileTransfer accessType="LOCAL" port="0" />
       </webServer>
     </option>
   </component>
