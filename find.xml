@@ -26,9 +26,9 @@
     <mask>*.scss</mask>
     <mask>*.yml</mask>
     <mask>*.js</mask>
-    <mask>*.html</mask>
     <mask>*.ts</mask>
     <mask>*.php</mask>
     <mask>*.php</mask>
+    <mask>*.html</mask>
   </component>
 </application>
