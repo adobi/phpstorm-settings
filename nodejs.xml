@@ -1,6 +1,8 @@
 <application>
   <component name="NodeJsLocalInterpreterManager">
+    <local-interpreter path="$USER_HOME$/.nvm/versions/node/v8.17.0/bin/node">
+      <version-cache version="8.17.0" last-modified="1576566327000" />
+    </local-interpreter>
     <local-interpreter path="$USER_HOME$/.nvm/versions/node/v16.13.0/bin/node" excluded="true" />
-    <local-interpreter path="$USER_HOME$/.nvm/versions/node/v8.17.0/bin/node" excluded="true" />
   </component>
 </application>
