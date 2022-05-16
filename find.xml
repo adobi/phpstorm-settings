@@ -27,8 +27,8 @@
     <mask>*.hbs</mask>
     <mask>*.js</mask>
     <mask>*.http</mask>
-    <mask>*.html</mask>
     <mask>*.scss</mask>
     <mask>*.json</mask>
+    <mask>*.html</mask>
   </component>
 </application>
