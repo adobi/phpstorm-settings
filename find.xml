@@ -24,9 +24,9 @@
     <mask>*.ts</mask>
     <mask>*.js</mask>
     <mask>*.http</mask>
-    <mask>*.scss</mask>
     <mask>*.json</mask>
     <mask>*.html</mask>
     <mask>*.hbs</mask>
+    <mask>*.scss</mask>
   </component>
 </application>
