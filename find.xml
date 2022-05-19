@@ -22,11 +22,11 @@
     <mask>*.php</mask>
     <mask>*.tsx</mask>
     <mask>*.ts</mask>
-    <mask>*.hbs</mask>
     <mask>*.js</mask>
     <mask>*.http</mask>
     <mask>*.scss</mask>
     <mask>*.json</mask>
     <mask>*.html</mask>
+    <mask>*.hbs</mask>
   </component>
 </application>
