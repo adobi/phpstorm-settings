@@ -21,7 +21,6 @@
     <mask>*.xlf</mask>
     <mask>*.html.php</mask>
     <mask>*.yml</mask>
-    <mask>*.php</mask>
     <mask>*.tsx</mask>
     <mask>*.ts</mask>
     <mask>*.js</mask>
@@ -30,6 +29,7 @@
     <mask>*.hbs</mask>
     <mask>*.html</mask>
     <mask>*.scss</mask>
+    <mask>*.php</mask>
     <mask>*.php</mask>
   </component>
 </application>
