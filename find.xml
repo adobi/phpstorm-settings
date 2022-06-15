@@ -27,10 +27,10 @@
     <mask>*.http</mask>
     <mask>*.json</mask>
     <mask>*.hbs</mask>
-    <mask>*.scss</mask>
     <mask>*.php</mask>
     <mask>*.php</mask>
     <mask>*.html</mask>
     <mask>*.ts</mask>
+    <mask>*.scss</mask>
   </component>
 </application>
