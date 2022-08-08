@@ -1,9 +1,0 @@
-<application>
-  <component name="WebServers">
-    <option name="servers">
-      <webServer id="4e9bfda3-98be-459c-986f-5b42b5848e57" name="Local or mounted folder">
-        <fileTransfer accessType="LOCAL" port="0" />
-      </webServer>
-    </option>
-  </component>
-</application>
