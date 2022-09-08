@@ -23,12 +23,12 @@
     <mask>*.http</mask>
     <mask>*.scss</mask>
     <mask>*.js</mask>
-    <mask>*.php</mask>
-    <mask>*.php</mask>
     <mask>*.hbs</mask>
     <mask>*.html</mask>
     <mask>*.java</mask>
     <mask>*.ts</mask>
     <mask>*.json</mask>
+    <mask>*.php</mask>
+    <mask>*.php</mask>
   </component>
 </application>
