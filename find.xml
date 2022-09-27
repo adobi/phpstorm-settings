@@ -28,7 +28,7 @@
     <mask>*.php</mask>
     <mask>*.php</mask>
     <mask>*.html</mask>
-    <mask>*.json</mask>
     <mask>*.java</mask>
+    <mask>*.json</mask>
   </component>
 </application>
