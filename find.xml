@@ -26,7 +26,7 @@
     <mask>*.java</mask>
     <mask>*.html</mask>
     <mask>*.ts</mask>
-    <mask>*.json</mask>
     <mask>*.hbs</mask>
+    <mask>*.json</mask>
   </component>
 </application>
