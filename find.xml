@@ -26,7 +26,7 @@
     <mask>*.hbs</mask>
     <mask>*.json</mask>
     <mask>*.ts</mask>
-    <mask>*.properties</mask>
     <mask>*.java</mask>
+    <mask>*.properties</mask>
   </component>
 </application>
