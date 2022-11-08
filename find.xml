@@ -1,9 +1,11 @@
 <application>
   <component name="FindSettings">
+    <option name="caseSensitive" value="true" />
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="localCaseSensitive" value="true" />
     <option name="localWholeWordsOnly" value="true" />
+    <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
@@ -27,10 +29,10 @@
     <mask>*.php</mask>
     <mask>*.php</mask>
     <mask>*.hbs</mask>
-    <mask>*.json</mask>
     <mask>*.java</mask>
     <mask>*.properties</mask>
     <mask>*.ts</mask>
     <mask>*.html</mask>
+    <mask>*.json</mask>
   </component>
 </application>
