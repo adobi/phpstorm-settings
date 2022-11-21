@@ -25,8 +25,8 @@
     <mask>*.ts</mask>
     <mask>*.html</mask>
     <mask>*.php</mask>
-    <mask>*.json</mask>
     <mask>*.java</mask>
     <mask>*.properties</mask>
+    <mask>*.json</mask>
   </component>
 </application>
