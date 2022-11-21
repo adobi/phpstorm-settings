@@ -21,12 +21,12 @@
     <mask>*.scss</mask>
     <mask>*.js</mask>
     <mask>*.hbs</mask>
-    <mask>*.java</mask>
     <mask>*.php</mask>
     <mask>*.ts</mask>
     <mask>*.html</mask>
     <mask>*.php</mask>
     <mask>*.json</mask>
+    <mask>*.java</mask>
     <mask>*.properties</mask>
   </component>
 </application>
